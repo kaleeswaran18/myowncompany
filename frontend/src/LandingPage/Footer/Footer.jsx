@@ -128,7 +128,7 @@ const Footer = () => {
             </div>
             <div className="contact-info">
               <span><FaPhoneAlt /> +91 6380319582</span>
-              <span><FaEnvelope /> <a href="mailto:kaleeswaran.b@heliolunar.in">kaleeswaran.b@Heliolunar.in</a></span>
+              <span><FaEnvelope /> <a href="mailto:kaleeswaran.b@heliolunar.in">kaleeswaran.b@heliolunar.in</a></span>
             </div>
 
           </div>
